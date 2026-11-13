@@ -1,7 +1,6 @@
 # TIPS AND TRICKS to use meson as little as required
 
-## Dump Meson Details
-## Dump raw Build Commands 
+## Dump Meson Details (Build Commands)
 ### As raw list
 ```bash
 ninja -C builddir -t commands > all_commands.txt
